@@ -8,7 +8,7 @@ DESCRIPTION
 -----------
 
 [h1]Mod Description[/h1]
-Replaces the original five loading screens with a selection of paintings by [url=https://en.wikipedia.org/wiki/Edmund_Leighton]Edmund_Leighton[/url].
+Replaces the original five loading screens with a selection of paintings by [url=https://en.wikipedia.org/wiki/Edmund_Leighton]Edmund Leighton[/url].
 Inspired by jin's [url=https://steamcommunity.com/sharedfiles/filedetails/?id=575946499]Art Replacement Mod[/url] for Crusader Kings II.
 
 [h1]Ironman and Achievements[/h1]
